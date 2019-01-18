@@ -1,0 +1,83 @@
+[33mcommit 3cf887c2d19693e94d13c1d888c9a896ac151926[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: dhanoop <k.dhanoop4u@gmail.com>
+Date:   Thu Jan 17 15:51:10 2019 +0530
+
+    Adding .gitignore file
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6fe7d55[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# java class file[m
+[32m+[m[32m*.class[m
+\ No newline at end of file[m
+
+[33mcommit dc831628758e76b2e24ea1c99806694b4a026b3a[m
+Author: dhanoop <k.dhanoop4u@gmail.com>
+Date:   Thu Jan 17 15:37:35 2019 +0530
+
+    This is further file which i have added..
+
+[1mdiff --git a/A.java b/A.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..52847a1[m
+[1m--- /dev/null[m
+[1m+++ b/A.java[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32mclass A{[m
+[32m+[m
+[32m+[m[32mpublic static void main(String args[])[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32mSystem.out.println("Hai Git......");[m[41m [m
+[32m+[m[32m}[m
+[32m+[m[32m}[m
+[1mdiff --git a/B.java b/B.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ed10e9d[m
+[1m--- /dev/null[m
+[1m+++ b/B.java[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32mclass B{[m
+[32m+[m
+[32m+[m[32mpublic static void main(String args[])[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32mSystem.out.println("Hai Git......");[m[41m [m
+[32m+[m[32m}[m
+[32m+[m[32m}[m
+
+[33mcommit 38a243a0dce4bcfdf2660909646fb8a6558e4b83[m
+Author: dhanoop <k.dhanoop4u@gmail.com>
+Date:   Thu Jan 17 15:12:45 2019 +0530
+
+    This is my first commit
+
+[1mdiff --git a/Hello.class b/Hello.class[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fb229b8[m
+Binary files /dev/null and b/Hello.class differ
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d94f1a9[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mHai Git..[m
+\ No newline at end of file[m
+[1mdiff --git a/hello.java b/hello.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d9d0c8d[m
+[1m--- /dev/null[m
+[1m+++ b/hello.java[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32mclass Hello{[m
+[32m+[m
+[32m+[m[32mpublic static void main(String args[])[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32mSystem.out.println("Hai Git......");[m[41m [m
+[32m+[m[32m}[m
+[32m+[m[32m}[m
